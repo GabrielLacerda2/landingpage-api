@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_aboutuses",
+  "info": {
+    "name": "aboutUS",
+    "icon": "user"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "authors": {
+      "collection": "author"
+    }
+  }
+}
